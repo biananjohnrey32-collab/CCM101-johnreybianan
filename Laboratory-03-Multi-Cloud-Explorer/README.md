@@ -1,17 +1,37 @@
-# Laboratory 03: Multi-Cloud Explorer
+# — KillerCoda Linux Environment
 
-## Mission 3 – Become a Multi-Cloud Explorer
+## Linux System Information
 
-This laboratory activity explores three major public cloud platforms: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+The Linux environment was inspected using KillerCoda.
 
-The activity focuses on researching cloud services, comparing the three major providers, analyzing business requirements, and recommending suitable cloud solutions.
+| Information | Result |
+|---|---|
+| Operating System | Ubuntu 24.04.4 LTS |
+| CPU | Intel Xeon E312xx (Sandy Bridge, IBRS update) |
+| Memory | [YOUR ACTUAL MEMORY] |
+| Disk Space | [YOUR ACTUAL AVAILABLE DISK SPACE] |
 
-## Objectives
+## Cloud Hosting Equivalents
 
-- Explore AWS, Microsoft Azure, and Google Cloud Platform.
-- Identify core services offered by each provider.
-- Compare cloud services across providers.
-- Analyze business scenarios and recommend suitable cloud platforms.
-- Match equivalent cloud services.
-- Use KillerCoda to investigate a Linux environment.
-- Document and organize the activity using GitHub and Markdown.
+If this Linux server were migrated to the cloud, equivalent services could be used from each major cloud provider.
+
+| Requirement | AWS | Microsoft Azure | GCP |
+|---|---|---|---|
+| Linux Virtual Server | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| Storage | Amazon EBS / Amazon S3 | Azure Managed Disks / Blob Storage | Persistent Disk / Cloud Storage |
+
+### AWS
+
+Amazon EC2 could host the Linux server as a virtual machine. Amazon EBS could provide persistent block storage for the operating system and applications.
+
+### Microsoft Azure
+
+Azure Virtual Machines could host the Linux server in Microsoft's cloud environment. Azure Managed Disks could provide persistent storage for the virtual machine.
+
+### Google Cloud Platform
+
+Google Compute Engine could host the Linux server as a virtual machine. Persistent Disk could provide storage for the operating system and applications.
+
+## Conclusion
+
+The Linux environment used in KillerCoda demonstrates the type of server workload that can be hosted using virtual machine services from AWS, Microsoft Azure, or Google Cloud Platform. The specific provider selected would depend on factors such as cost, performance, existing infrastructure, security requirements, and business needs.
