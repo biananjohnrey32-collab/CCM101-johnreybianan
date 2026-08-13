@@ -37,3 +37,17 @@ Using multiple cloud providers can also help organizations avoid depending entir
 AWS, Microsoft Azure, and Google Cloud Platform are all powerful cloud computing platforms. AWS is known for its broad range of services and global infrastructure, Azure is particularly strong for Microsoft-oriented enterprise environments, and GCP is well suited to organizations focused on data, analytics, AI, and cloud-native technologies.
 
 The best cloud platform depends on an organization's technical requirements, existing infrastructure, budget, security needs, workforce skills, and business goals
+
+---
+
+# Checkpoint 6 — Cloud Platform Decision Matrix
+
+| Scenario | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides a broad range of scalable cloud services that allow startups to begin with the resources they need and expand as their applications and customer base grow. |
+| Enterprise Organization | Microsoft Azure | Azure is a strong choice for enterprise organizations because it provides extensive enterprise services, security capabilities, hybrid-cloud support, and integration with Microsoft technologies. |
+| Microsoft Environment | Microsoft Azure | Azure is recommended for organizations that already use Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft identity services because of its strong integration with the Microsoft ecosystem. |
+| AI / Machine Learning | GCP | Google Cloud is well suited for AI and machine learning workloads because it provides services and tools for machine learning, artificial intelligence, data analytics, and large-scale data processing. |
+| Kubernetes Deployment | GCP | Google Cloud is a strong choice for Kubernetes deployments because Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying and managing containerized applications. |
+| Global Web Application | AWS | AWS provides a broad collection of services for building globally distributed web applications, including computing, storage, databases, networking, and content delivery services. |
+
