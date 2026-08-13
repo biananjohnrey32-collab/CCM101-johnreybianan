@@ -1,4 +1,4 @@
-# GCP Research  ## Google Cloud Platform (GCP)
+# GCP Research  Google Cloud Platform (GCP)
 
 ### 1. Brief Overview
 
