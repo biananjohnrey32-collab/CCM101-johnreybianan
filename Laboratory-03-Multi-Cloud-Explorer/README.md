@@ -1,4 +1,4 @@
-# — KillerCoda Linux Environment
+#  KillerCoda Linux Environment
 
 ## Linux System Information
 
@@ -8,8 +8,8 @@ The Linux environment was inspected using KillerCoda.
 |---|---|
 | Operating System | Ubuntu 24.04.4 LTS |
 | CPU | Intel Xeon E312xx (Sandy Bridge, IBRS update) |
-| Memory | [YOUR ACTUAL MEMORY] |
-| Disk Space | [YOUR ACTUAL AVAILABLE DISK SPACE] |
+| Memory | 475GB |
+| Disk Space | 129GB |
 
 ## Cloud Hosting Equivalents
 
