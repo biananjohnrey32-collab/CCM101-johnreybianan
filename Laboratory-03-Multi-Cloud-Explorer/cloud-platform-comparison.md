@@ -91,3 +91,15 @@ AWS is a suitable choice for the global e-commerce company because it provides a
 | Client B — University | Microsoft Azure | Strong integration with Windows Server, Microsoft 365, and Microsoft identity technologies |
 | Client C — AI Research Company | GCP | Strong AI, machine learning, and data analytics capabilities |
 | Client D — Global E-Commerce | AWS | Broad services for scalable and globally distributed applications |
+---
+
+# Checkpoint 5 — Matching Cloud Services
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud Identity / Google Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
